@@ -1,0 +1,28 @@
+p{
+	color:blue;
+
+}
+.myImage{
+height:100px;
+width:200px;
+}
+#myImage{
+height: 200px;
+width: 300px;
+margin: 10px;
+}
+
+#myParagraph{
+font-size: 40px;
+}
+
+.className{
+	color:red;
+	font-size: 30px;
+
+
+}
+#idName{
+color:blue;
+font-size: 30px;
+}
